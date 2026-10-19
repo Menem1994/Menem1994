@@ -33,5 +33,5 @@ Actualmente estoy desarrollando conocimientos en **Linux, Bash, Git y GitHub**, 
 
 ## 🔍 Áreas de interés
 
-`Backend` · `Ciberseguridad` · `Linux` · `Automatización` · `Seguridad informática`
+`Backend` · `Ciberseguridad` · `Linux` · `Automatización` · `Seguridad informática`. `Creación de páginas web`
 
